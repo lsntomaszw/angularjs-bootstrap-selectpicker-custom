@@ -7,7 +7,7 @@
   "description": "custom directive for boostrap select (not maintained)",
   "main": [
     "angular-boostrap-selectpicker-custom.js",
-    "selectpicker-locale-pl.js",
+    "selectpicker-locale-pl.js"
   ],
   "moduleType": [],
   "license": "MIT",
