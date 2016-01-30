@@ -1,0 +1,21 @@
+{
+  "name": "angularjs-bootstrap-selectpicker-custom",
+  "homepage": "https://github.com/lsntomaszw/angularjs-bootstrap-selectpicker-custom",
+  "authors": [
+    "public"
+  ],
+  "description": "custom directive for boostrap select (not maintained)",
+  "main": [
+    "angular-boostrap-selectpicker-custom.js",
+    "selectpicker-locale-pl.js",
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
